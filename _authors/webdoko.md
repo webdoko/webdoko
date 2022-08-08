@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /webdoko-blog/assets/img/uploads/profile.png
+photo: /assets/img/uploads/profile.png
 name: webdoko
 display_name: Webdoko
 position: Admin

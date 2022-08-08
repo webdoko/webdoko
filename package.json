@@ -6,7 +6,7 @@
   "homepage": "https://blog.webdoko.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arjun-gautam/webdoko-blog"
+    "url": "https://github.com/webdoko/webdoko"
   },
   "keywords": [
     "blog",
@@ -15,7 +15,7 @@
   "author": "Arjun Gautam",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/arjun-gautam/webdoko-blog/issues"
+    "url": "https://github.com/webdoko/webdoko/issues"
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",
