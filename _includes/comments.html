@@ -1,6 +1,9 @@
 {% if site.disqus_username %}
 
 <section class="comments">
+    <small>
+      {{page.url}}
+    </small>
     <h3>{{ site.translations.text.comments | default: "Comments" }}</h3>
     <div id="disqus_thread"></div>
 </section>
