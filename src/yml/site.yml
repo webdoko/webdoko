@@ -12,7 +12,7 @@ menu:
   - title: About
     url: /about
   - title: Contact
-    url: /contact
+    url: https://www.webdoko.com/contact
   - title: Feed
     url: /feed.xml
 email: contact@webdoko.com
