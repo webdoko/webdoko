@@ -14,7 +14,7 @@ menu:
   - title: About
     url: /about
   - title: Contact
-    url: "HTTP:///www.webdoko.com/contact"
+    url: /contact
   - title: Feed
     url: /feed.xml
 email: contact@webdoko.com
