@@ -1,9 +1,7 @@
 {% if site.disqus_username %}
 
 <section class="comments">
-    <small>
-      http://blogs.webdoko.com{{page.url}}
-    </small>
+    <div class="fb-comments" data-href="http://blogs.webdoko.com{{page.url}}" data-width="" data-numposts="2"></div>
     <h3>{{ site.translations.text.comments | default: "Comments" }}</h3>
     <div id="disqus_thread"></div>
 </section>
