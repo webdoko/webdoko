@@ -1,21 +1,19 @@
 ---
-date: 2022-08-25T23:48:05.000Z
+date: 2019-05-16T23:48:05.000Z
 layout: post
-title: Improve Your Learning Skills
-subtitle: 'Practice active learning, highlight key points and practice more assignments & tests'
+title: Welcome to the desert of the real
+subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
-  This article will help you improve your learning skills. The article will discuss how to practice, research, and summarize the materials you have to learn in order to improve your learning skills.
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://raw.githubusercontent.com/webdoko/webdoko/gh-pages/assets/img/blog/starting-to-learn-web-development.png
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
-  https://raw.githubusercontent.com/webdoko/webdoko/gh-pages/assets/img/blog/starting-to-learn-web-development-thumb.png
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
 tags:
-  - study
-  - learn
-  - practice
+  - welcome
   - blog
-  - skills
 author: webdoko
 paginate: true
 ---
