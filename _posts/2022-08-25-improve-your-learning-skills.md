@@ -5,10 +5,10 @@ title: Improve Your Learning Skills
 subtitle: 'Practice active learning, highlight key points and practice more assignments & tests'
 description: >-
   This article will help you improve your learning skills. The article will discuss how to practice, research, and summarize the materials you have to learn in order to improve your learning skills.
-<!-- image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+image: >-
+  https://raw.githubusercontent.com/webdoko/webdoko/gh-pages/assets/img/blog/starting-to-learn-web-development.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg -->
+  https://raw.githubusercontent.com/webdoko/webdoko/gh-pages/assets/img/blog/starting-to-learn-web-development-thumb.png
 category: blog
 tags:
   - study
