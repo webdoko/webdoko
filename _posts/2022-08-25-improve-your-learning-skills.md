@@ -1,5 +1,3 @@
-# Improve your learning skills
-
 This article will help you improve your learning skills. The article will discuss how to practice, research, and summarize the materials you have to learn in order to improve your learning skills.
 
 It is essential to foster and improve learning strategies in order to learn successfully. Learners in modern education systems are expected to demonstrate increased autonomy and initiative in learning processes, such as inspecting learning materials and being capable of understanding content.
