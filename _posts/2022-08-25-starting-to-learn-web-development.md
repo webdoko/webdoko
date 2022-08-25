@@ -1,10 +1,11 @@
 ---
 date: 2022-08-25T23:48:05.000Z
 layout: post
-title: Starting to learn web development
-subtitle: '5 tips for someone who is thinking to start web development'
+title: Welcome to the desert of the real
+subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
-  They always have a lot of questions when you are trying to learn web development for the first time. A few tips in the beginning can always save you lots of time. Here are 5 tips for someone who is thinking to start web development.
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua.
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
