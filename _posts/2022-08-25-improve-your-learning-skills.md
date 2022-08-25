@@ -70,3 +70,6 @@ Examining your text carefully for typographical errors as well as grammar, style
 ### Forgive yourself for the flaws
 
 We will never stop learning to write. No draft is ever perfect, but the deadline requires you to do your best and then send it out into the reader's world.
+
+
+Hope this is helpful to you
