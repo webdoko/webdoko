@@ -1,3 +1,25 @@
+---
+date: 2022-08-25T23:48:05.000Z
+layout: post
+title: Improve Your Learning Skills
+subtitle: 'Practice active learning, highlight key points and practice more assignments & tests'
+description: >-
+  This article will help you improve your learning skills. The article will discuss how to practice, research, and summarize the materials you have to learn in order to improve your learning skills.
+image: >-
+  https://raw.githubusercontent.com/webdoko/webdoko/gh-pages/assets/img/blog/starting-to-learn-web-development.png
+optimized_image: >-
+  https://raw.githubusercontent.com/webdoko/webdoko/gh-pages/assets/img/blog/starting-to-learn-web-development-thumb.png
+category: blog
+tags:
+  - study
+  - learn
+  - practice
+  - blog
+  - skills
+author: webdoko
+paginate: true
+---
+
 They always have a lot of questions when you are trying to learn web development for the first time. A few tips in the beginning can always save you lots of time. Here are 5 tips for someone who is thinking to start web development:
 
 - Let's say you decided to learn web development and you started to read something, then you started to code. If you feel sleepy within an hour, then forget about coding. You might wanna do something else. Search what you really want to do and do that. Find someone who has already been there (your goal that you want to achieve) and ask them about what you should plan to move forward.
