@@ -22,7 +22,7 @@ Some example questions are: "How can I explain this concept in my own words?", "
 
 Taking notes has benefits both during lecture (in-class) or after lecture (post-class). Taking notes actively during class can help you focus and better understand key concepts. Taking good notes will improve your active listening, comprehension, and retention. After class, taking good notes is essential for reviewing and studying class material so that you can better understand it and prepare for exams. Efficient and concise notes can save you time, energy, and the confusion that comes from attempting to make sense of disorganized, overwhelming, insufficient, or wordy notes. Taking good notes while watching a video can save you the trouble of pausing, rewinding, and rewatching large chunks of a lecture. Good notes can be a valuable resource for making outlines and studying.
 
-### summarize after reading or listening to material
+### Summarize after reading or listening to material
 
 A summary, on the other hand, is a brief overview of an entire chapter, note, discussion, or argument. You could, for example, summarize an entire chapter or conversation in a single paragraph or with a series of bullet points, using your own words and style.
 
