@@ -1,22 +1,22 @@
 ---
 layout: post
-title: Starting to learn web development
-subtitle: '5 tips for someone who is thinking to start web development.'
+title: Starting to learn web development?
+subtitle: '5 tips for anyone who is thinking to start web development.'
 description: >-
-  They always have a lot of questions when you are trying to learn web development for the first time. A few tips in the beginning can always save you lots of time. Here are 5 tips for someone who is thinking to start web development.
+  They always have a lot of questions when you are trying to learn web development for the first time. A few tips in the beginning can always save you lots of time. Here are 5 tips for anyone who is thinking to start web development.
 image: >-
   https://raw.githubusercontent.com/webdoko/webdoko/gh-pages/assets/img/blog/starting-to-learn-web-development.png
 optimized_image: >-
   https://raw.githubusercontent.com/webdoko/webdoko/gh-pages/assets/img/blog/starting-to-learn-web-development-thumb.png
 category: blog
 tags:
-  - welcome
-  - blog
+  - web development
+  - tips
 author: webdoko
 paginate: true
 ---
 
-They always have a lot of questions when you are trying to learn web development for the first time. A few tips in the beginning can always save you lots of time. Here are 5 tips for someone who is thinking to start web development:
+They always have a lot of questions when you are trying to learn web development for the first time. A few tips in the beginning can always save you lots of time. Here are 5 tips for anyone who is thinking to start web development:
 
 - Let's say you decided to learn web development and you started to read something, then you started to code. If you feel sleepy within an hour, then forget about coding. You might wanna do something else. Search what you really want to do and do that. Find someone who has already been there (your goal that you want to achieve) and ask them about what you should plan to move forward.
 - From this second point, let's assume you didn't feel sleepy the first hour of learning how to code.
