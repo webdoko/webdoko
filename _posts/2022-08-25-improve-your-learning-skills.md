@@ -72,4 +72,4 @@ Examining your text carefully for typographical errors as well as grammar, style
 We will never stop learning to write. No draft is ever perfect, but the deadline requires you to do your best and then send it out into the reader's world.
 
 
-Hope this is helpful to you
+That's all for now. If you follow these steps properly you improve your learning skills and also your writing skills. Happy learning!
