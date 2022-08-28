@@ -11,6 +11,10 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: WebDoko
+    url: /webdoko
+  - title: WebDoko Investor
+    url: /webdoko-investor
   - title: About
     url: /about
   - title: Contact
